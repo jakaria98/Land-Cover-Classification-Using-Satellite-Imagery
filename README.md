@@ -1,4 +1,4 @@
-### README: Land Use Classification using Transfer Learning (VGG16 & InceptionV3)
+### README: Land Cover Classification using Deep Learning (VGG16 & InceptionV3)
 
 #### Project Overview:
 This project focuses on classifying land use types from satellite imagery using deep learning techniques. The dataset used for this task is the UCMerced LandUse dataset, consisting of 21 different land use classes. The project implements transfer learning with two pre-trained models, **VGG16** and **InceptionV3**, and evaluates their performance using various metrics.
